@@ -23,9 +23,9 @@ dist-ssr
 *.sln
 *.sw?
 
-# .gitignore
+# Add this to your .gitignore file
 .env
 .env.local
 .env.development
-.env.test
 .env.production
+server/.env
